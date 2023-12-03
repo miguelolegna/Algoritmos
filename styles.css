@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/299894157_477951174343138_8503217719542970693_n.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+    text-align:justify;
+    
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 1000px; 
+    margin-bottom: 30px;
+    
+    color: white;
+}
+
+.titulo-principal{
+    font-size: 45px;
+    text-align: justify;
+}
+
+.titulo-secundario{
+    font-size: 35px;
+    text-align: justify;
+}
+
+.titulo-secundario-2{
+    font-size: 30px;
+    text-align: justify;
+    /*color: red;/*/
+}
+
+h2{
+font-weight: normal;
+font-size: 22px;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */
+    color: white;
+}
+
+.item {
+    text-align: center; /* Centraliza o texto dentro do item */
+    margin: 0 150px; /* Adiciona espaçamento entre os itens */
+    transition: transform 0.3s;
+}
+
+a {
+    color: white; /* ou qualquer outra cor */
+}
